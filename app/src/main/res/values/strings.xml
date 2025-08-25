@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="copy">Copy</string>
+    <string name="instruction_text">Please type text here</string>
+    <string name="about_app_text">App made by: S Ginzburg</string>
+    <string name="hint_text">Enter text here</string>
+</resources>
